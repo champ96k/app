@@ -3,7 +3,7 @@
   "private": true,
   "devDependencies": {
     "firebase-tools": "^8.7.0",
-    "husky": "^4.2.5",
+    "husky": "^5.1.3",
     "lint-staged": "^10.2.11",
     "prettier": "^2.0.5"
   },
