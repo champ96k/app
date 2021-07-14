@@ -4,7 +4,7 @@
   "devDependencies": {
     "firebase-tools": "^8.7.0",
     "husky": "^4.2.5",
-    "lint-staged": "^10.2.11",
+    "lint-staged": "^11.0.1",
     "prettier": "^2.0.5"
   },
   "dependencies": {}
